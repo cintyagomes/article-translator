@@ -41,7 +41,7 @@ translate_article(
 
 Expected output:
 ```python
-Vamos ver se o deployment foi bem-sucedido.
+Let's see if the deployment was successful.
 ```
 
 
